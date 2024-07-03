@@ -63,7 +63,7 @@ const products=[
         "id": 9,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image10.png"
+        "image":"images/image10.png"
         
     }
     ,
