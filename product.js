@@ -79,7 +79,7 @@ const products=[
         "id": 11,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image12.png"
+        "image":"images/image12.png"
         
     }
     ,
@@ -87,7 +87,7 @@ const products=[
         "id": 12,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image13.png"
+        "image":"images/image13.png"
         
     }
     ,
@@ -95,7 +95,7 @@ const products=[
         "id": 13,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image11.png"
+        "image":"images/image11.png"
         
     }
     ,
@@ -103,7 +103,7 @@ const products=[
         "id": 14,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image15.png"
+        "image":"images/image15.png"
         
     }
     ,
@@ -111,7 +111,7 @@ const products=[
         "id": 15,
         "text":"JORDAN 2018",
         "price": 95,
-        "image":"/images/image11.png"
+        "image":"images/image11.png"
         
     }
 ]
